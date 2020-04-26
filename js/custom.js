@@ -1,10 +1,10 @@
 // Custom Script
-// Developed by: Samson.Onna
-// CopyRights : http://webthemez.com
+// Developed by: 
+// CopyRights : 
 
 /*
-Theme by: WebThemez.com
-Note: Please use our back link in your site
+Theme by: 
+Note: 
 */
 $( function() {
         var endDate = "April  27, 2016 15:03:25";
