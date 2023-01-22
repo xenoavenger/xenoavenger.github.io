@@ -1,10 +1,4 @@
-/*
 
-Tooplate 2115 Marvel
-
-https://www.tooplate.com/view/2115-marvel
-
-*/
 
 
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
@@ -111,7 +105,7 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 300px;
+  min-width: 340px;
   position: relative;
 }
 
@@ -518,7 +512,7 @@ b, strong {
 }
 @media (max-width: 580px) {
 	.animated-info {
-		min-width: 240px;
+		min-width: 260px;
 	}
   .animated-item {
     font-size: 30px;
